@@ -6,7 +6,7 @@ const Home = () => {
       <h1>My App in React</h1>
       <main>
         <FichaGrid />
-        < Contador value = {10} title= "el gran contador" />
+        < Contador value = {11} title= "el gran contador" />
         
       </main>
     </>
